@@ -1,5 +1,3 @@
-# Klinik Melati
+# Toko
 
-Ini adalah aplikasi sederhana untuk CRUD pasien pada klinik melati
-
-![Klinik Melati](./images/klinik-melati-ss.png)
+Ini adalah aplikasi sederhana untuk manajemen produk pada toko elektronik.
